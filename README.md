@@ -7,7 +7,8 @@ C. Source Code
 Penjelasan kode per baris:
 <img width="711" height="387" alt="Cuplikan layar 2026-04-28 215414" src="https://github.com/user-attachments/assets/93e821b0-21f4-475d-a7c0-5cd2f4b6921c" />
 1. judul program
-2. membuat fungsi menu()
+2. 
+3. membuat fungsi menu()
 3.mencetak judul menu sistem manajemen tabungan
 4.mencetak menu pertama untuk setor uang (menabung)
 5.mencetak menu kedua untuk tarik uang
